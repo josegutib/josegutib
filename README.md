@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I've always been interested in computers and technology , that is why decided to find out more
+ about it. I've recently finished Henry Bootcamp , which consists on 800+ hours covering many technologies:
+* HTML
+* CSS / Bootstrap
+* Javascript
+* React / Redux
+* Postgres
+* Sequelize
+
+### Individual Project
+
 <!--
 **josegutib/josegutib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
