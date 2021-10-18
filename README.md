@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've always been interested in computers and technology , that is why decided to find out more
+I've always been interested in computers and technology , that is why I decided to find out more
  about it. I've recently finished Henry Bootcamp , which consists on 800+ hours covering many technologies:
 * HTML
 * CSS / Bootstrap
@@ -8,6 +8,8 @@ I've always been interested in computers and technology , that is why decided to
 * React / Redux
 * Postgres
 * Sequelize
+
+I'm open to work , looking forward to get my first IT job
 
 ### Individual Project
 ![image](https://user-images.githubusercontent.com/29823485/137779036-ec77edfe-62dd-4999-88e7-bb5e697fa9c6.png)
